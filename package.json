@@ -31,7 +31,7 @@
     "dotenv": "^16.0.2",
     "easy-file-manager": "^0.1.3",
     "lolkil-scraper": "^1.0.5",
-    "mongoose": "5.7.0",
+    "mongoose": "5.13.20",
     "node-telegram-bot-api": "^0.59.0"
   },
   "devDependencies": {
